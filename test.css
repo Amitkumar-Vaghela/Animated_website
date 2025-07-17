@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gilroy';
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
+}
+img{
+    height: 400px;
+    width: 600px;
+}
+/* 
+#hero1{
+    height: 30vh;
+    width: 30vw;
+    border-radius: 50%;
+    filter: blur(20px);
+    background-color: #ff9408;
+    position: absolute;
+
+}
+
+#hero2{
+    height: 30vh;
+    width: 30vw;
+    border-radius: 50%;
+    filter: blur(20px);
+    background-color: #ff9408;
+    animation-name: anime;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    position: absolute; 
+ 
+}
+
+@keyframes anime{
+    from {
+        transform: translate(-10% -20%);
+    }
+    to {
+        transform: translate(-20% , 10%);
+    }
+    
+} */
