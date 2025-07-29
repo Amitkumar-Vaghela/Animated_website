@@ -58,5 +58,14 @@ cd animated-website-two-theta
 open index.html
 
 
+---
+
+### ✅ What You Should Update:
+- Replace `preview-image-url-here` with an actual screenshot or GIF of your site.
+- Change `your-username` and `yourhandle` to your actual GitHub/Twitter handles.
+- Adjust tech stack if you're using frameworks like React, Tailwind, etc.
+
+Would you like me to generate a **preview image/GIF** for the live site to include in the README?
+
 
 
